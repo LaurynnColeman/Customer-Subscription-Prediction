@@ -6,8 +6,7 @@ This project analyzes a Portuguese bank's marketing campaign to identify factors
 
 ### **Key Business Questions Addressed:**
 
-* What factors contribute to a successful customer subscription?  
-* How does call duration impact conversion rates?  
+* What factors contribute to a successful customer subscription?    
 * Are there specific customer characteristics or behaviors that increase the likelihood of subscription?  
 * How can marketing campaigns be adjusted based on these findings?
 
