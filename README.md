@@ -1,3 +1,5 @@
+# **Bank Marketing Subscription Prediction**
+
 ## **Project Overview**
 
 This project analyzes a Portuguese bank's marketing campaign to identify factors that influence customer subscription to a term deposit from direct marketing campaigns (phone calls). The dataset consists of customer information, call details, and past marketing interactions. The objective is to understand which factors contribute to a successful call, allowing the marketing team to refine their strategy. Traditional telemarketing campaigns often face challenges in efficiency, as evidenced by the low subscription rate in this dataset (\~10%). This highlights the need for data-driven strategies to improve targeting and reduce wasted effort.
