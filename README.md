@@ -73,3 +73,4 @@ After evaluating these models, Random Forest was selected due to its strong perf
 * Optimize campaign timing by increasing marketing efforts in months with higher conversion rates.  
 * Personalize marketing approaches based on demographics.
 
+### If you have suggestions for enhancing the code or the project overall, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
