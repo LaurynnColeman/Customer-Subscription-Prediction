@@ -67,10 +67,10 @@ After evaluating these models, Random Forest was selected due to its strong perf
 
 ### **Next Steps for Business Implementation**
 
-* Refine agent scripts to keep customers engaged longer.  
-* Focus on more effective communication channels  
-* Adjust marketing frequency based on past engagement to avoid customer fatigue.  
-* Optimize campaign timing by increasing marketing efforts in months with higher conversion rates.  
-* Personalize marketing approaches based on demographics.
+* Refine call scripts to extend conversation lengths, enhancing customer engagement.
+* Optimize campaign timing by prioritizing high-conversion months, May and July.
+* Use demographic data to personalize marketing strategies.
+* Focus on targeting customers in other ways, while considering the top 5 features.
+
 
 ### If you have suggestions for enhancing the code or the project overall, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated!
